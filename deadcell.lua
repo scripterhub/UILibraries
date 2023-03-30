@@ -1,10 +1,10 @@
 -- settings (so u dont have to scroll)
 local settings = {
-    folder_name = "zephyrus"; -- stupid shit
-    default_accent = Color3.fromRGB(61, 100, 227); -- also stupid shit
+    folder_name = "cumware"; -- stupid shit
+    default_accent = Color3.fromRGB(247, 69, 69); -- also stupid shit
 };
 
-local drawing = loadstring(game:HttpGet("https://github.com/GhostDuckyy/UI-Libraries/blob/main/DEADCELL%20REMAKE/misc/extension.lua?raw=true"))();
+local drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/scripterhub/UILibraries/main/drawin.lua"))();
 local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/utility/main/Tween.lua"))()
 
 -- // UI LIBRARY
